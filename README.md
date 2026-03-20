@@ -39,7 +39,4 @@ from keras.models import load_model
 model = load_model(path + 'neural_network.h5')
 ```
 
-## Contributing
-Please open an issue to discuss what you would like to change. 
-
 Thanks for reading! (^.^)
