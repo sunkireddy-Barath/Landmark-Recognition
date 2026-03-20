@@ -1,0 +1,3 @@
+# Landmark-Recognition
+The Landmark Recognition System is a computer vision project designed to identify and classify famous landmarks from images. The system uses deep learning techniques such as Convolutional Neural Networks (CNNs) and Transfer Learning to analyze visual features and accurately recognize landmarks from Google Street View–like images.
+The Landmark Recognition System is a computer vision project designed to identify and classify famous landmarks from images. The system uses deep learning techniques such as Convolutional Neural Networks (CNNs) and Transfer Learning to analyze visual features and accurately recognize landmarks from Google Street View–like images.
